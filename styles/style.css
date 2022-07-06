@@ -1,0 +1,22 @@
+* {
+    font-style: Verdana, Arial, sans-serif;
+    color:peru
+}
+
+h3>a {
+    color: coral;
+}
+
+h1 {
+    color:maroon;
+}
+
+.items {
+    background-color: maroon;
+    color:gainsboro
+}
+
+.items2{
+    background-color: maroon;
+    color:gainsboro
+}
