@@ -1,0 +1,45 @@
+* {
+    font-style: Verdana, Arial, sans-serif;
+    color:peru
+}
+
+form {
+    border: 5px saddlebrown solid;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    margin: 5vh;
+    align-items: center;
+    padding: 2vh;
+    width: 50%;
+}
+
+::placeholder {
+    color: indianred;
+    font-style: italic;
+}
+
+.titulos {
+    background-color: saddlebrown;
+    border-radius: 5px;
+    padding: 0px 10px;
+    color: rgb(216, 204, 189);
+    width: 50%;
+}
+
+form>p>label{
+    font-size: large;    
+    font-weight: bold;
+}
+
+input{ 
+    padding-bottom: 10px;
+}
+
+button{
+    font-weight: bold;
+    font-size: large;
+    border: 2px saddlebrown solid;
+    border-radius: 5px;
+}
+
