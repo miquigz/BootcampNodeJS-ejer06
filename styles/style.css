@@ -1,22 +1,25 @@
 * {
-    font-style: Verdana, Arial, sans-serif;
+    font-family:Verdana, Arial, sans-serif;
     color:peru
 }
 
 h3>a {
     color: coral;
+    font-weight: bold;
 }
 
 h1 {
     color:maroon;
+    font-size: xx-large;
+    font-weight: bold;
 }
 
 .items {
     background-color: maroon;
-    color:gainsboro
+    color:gainsboro;
 }
 
 .items2{
     background-color: maroon;
-    color:gainsboro
+    color:rgb(181, 182, 142)
 }

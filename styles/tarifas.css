@@ -1,0 +1,36 @@
+* {
+    font-family:Verdana, Arial, sans-serif;
+    color:peru
+}
+
+h1{
+    background-color: saddlebrown;
+    border-radius: 5px;
+    padding: 0px 10px;
+    color: rgb(216, 204, 189);
+    width: 50%;
+}
+
+.titulos{
+    background-color: saddlebrown;
+    border-radius: 5px;
+    padding: 0px 10px;
+    color: rgb(216, 204, 189);
+    width: 50%;
+}
+
+p{
+    margin-left: 15px;
+}
+
+ul{
+    padding-bottom: 10px ;
+}
+
+ul>li{
+    padding: 5px;
+}
+
+.span-usd {
+    font-weight: bold;
+}
